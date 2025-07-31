@@ -1,6 +1,6 @@
-👋 Hi, I’m @RitamNaskar
-🎓 I’m a Bachelor of Computer Applications (BCA) graduate – Class of 2025.
-👀 I’m passionate about frontend web development
+👋Hi, I’m @RitamNaskar
+🎓I’m a Bachelor of Computer Applications (BCA) graduate – Class of 2025.
+👀I’m passionate about frontend web development
 🧑‍💻 I have skills on HTML, CSS, and JavaScript, and I'm currently exploring Python
 💼 I’m building real-world projects like a Spotify clone, Foodie (food ordering website).
 🚀 Aspiring to become a Frontend Web Developer
