@@ -2,7 +2,7 @@
 🎓 I’m a Bachelor of Computer Applications (BCA) graduate – Class of 2025  
 👀 I’m passionate about frontend web development  
 💻 I have skills in **HTML**, **CSS**, and **JavaScript**.
-🧰 I'm also exploring **Python** for backend logic  
+🧰
 💼 Currently building real-world projects like:  
 &nbsp;&nbsp;&nbsp;&nbsp;🎵 Spotify Clone  
 &nbsp;&nbsp;&nbsp;&nbsp;🍔 Foodie (Food Ordering Website)  
