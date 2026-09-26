@@ -1,11 +1,7 @@
 ## 👋 Hi, I’m @RitamNaskar
 🎓 I’m a Bachelor of Computer Applications (BCA) graduate – Class of 2025  
 👀 I’m passionate about frontend web development  
-💻 I have skills in **HTML**, **CSS**, and **JavaScript**.
-🧰
-💼 Currently building real-world projects like:  
-&nbsp;&nbsp;&nbsp;&nbsp;🎵 Spotify Clone  
-&nbsp;&nbsp;&nbsp;&nbsp;🍔 Foodie (Food Ordering Website)  
+💻 I have skills in **HTML**, **CSS**, **JavaScript** , and **Python**
 🚀 Aspiring to become a **Frontend Web Developer**  
 🤝 Open to collaborating on **frontend**,**open-source web projects**  
 🔗 Reach me on: [LinkedIn](https://www.linkedin.com/in/ritam-naskar-2024r)  
