@@ -1,84 +1,154 @@
-<h1 align="center">👋 Hi, I'm Ritam Naskar</h1>
+# 👋 Hi, I'm Ritam Naskar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=560&lines=BCA+Graduate+%7C+Class+of+2025;Aspiring+Frontend+Web+Developer;Building+clean%2C+responsive+websites" alt="Typing SVG" />
-</p>
+### 💻 Frontend Web Developer | BCA Graduate | Full-Stack Enthusiast
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritam-naskar-2024r">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RitamNaskar11&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
-</p>
+I'm a **Bachelor of Computer Applications (BCA) graduate** passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into real-world projects and continuously improving my skills in **Frontend Development, JavaScript, React, Python, and Full-Stack Development**.
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA) graduate, **Class of 2025**
-- 👀 Passionate about **frontend web development**
-- 🚀 Aspiring to become a **Frontend Web Developer**
-- 🤝 Open to collaborating on **frontend** and **open-source web projects**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: *When I'm not coding, I'm probably listening to music, watching web series, or playing mobile games.*
+- 🎓 BCA Graduate — Class of 2025
+- 💻 Passionate about **Frontend & Full-Stack Web Development**
+- 🌱 Currently improving my skills in **React, Next.js, Node.js & Python**
+- 🔥 Interested in building real-world web applications
+- 🤝 Open to collaborating on **Web Development & Open Source Projects**
+- 🎯 Goal: Become a professional **Frontend / Full-Stack Developer**
+- ⚡ Fun fact: When I'm not coding, I enjoy listening to music, watching web series, and playing mobile games.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php" />
 </p>
 
-## 🛠️ Tools
+### ⚛️ Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### 🔧 Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Featured Projects
 
-- ⚛️ React.js
-- 🎨 Responsive design and modern CSS (Flexbox and Grid)
-- 🧩 Building real-world frontend projects
+### 🍔 Foodie.com
 
-> Edit this list to match what you're actually learning right now.
+A food booking and ordering web application built as an academic project.
 
----
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
-## 📂 Featured Projects
-
-<!-- Replace the placeholders below with your real projects -->
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Project One](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
-| [Project Two](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
-| [Project Three](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | Python |
-
+🔗 [View Project](https://github.com/RitamNaskar11)
 
 ---
 
+### 🎵 Spotify Clone
 
-## 🎯 Goals
+A responsive Spotify-inspired music player built using JavaScript with local music playback functionality.
 
-- ✅ Build and publish a strong frontend portfolio
-- ✅ Contribute to open-source projects
-- ✅ Land a role as a Frontend Web Developer
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://ritamnaskar11.github.io/Spotify.github.io/)
 
 ---
 
-## 📫 Let's Connect
+### 🎬 Netflix Clone
 
-I'm always happy to chat about web development, collaborations, or opportunities.
-Reach out on [LinkedIn](https://www.linkedin.com/in/ritam-naskar-2024r).
+A Netflix-inspired responsive website created to practice frontend development and responsive UI design.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/RitamNaskar11)
+
+---
+
+### 🏠 StayFinder
+
+A full-stack accommodation platform inspired by applications such as Airbnb.
+
+**Features:**
+- User authentication
+- Property listings
+- Booking functionality
+- REST APIs
+- Responsive UI
+
+**Tech:** JavaScript • Node.js • Express • MongoDB
+
+---
+
+### 🚨 Emergency Assistance System
+
+A web application designed to help users find nearby hospitals using location-based services.
+
+**Tech:** React • Node.js • Express • OpenStreetMap • Leaflet
+
+**Features:**
+- 📍 Location detection
+- 🏥 Nearby hospital search
+- 🗺️ Interactive map
+- 📏 Distance calculation
+
+---
+
+### 🤖 AI Resume Analyzer
+
+A Python-based application that analyzes resumes and extracts useful information.
+
+**Tech:** Python • Pandas • PyPDF2 • Flask
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>Thanks for stopping by. Happy coding! ✨</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=RitamNaskar11&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamNaskar11&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RitamNaskar11&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 My Development Journey
+
+```text
+HTML / CSS
+    ↓
+JavaScript
+    ↓
+PHP + MySQL
+    ↓
+React
+    ↓
+Node.js + Express
+    ↓
+MongoDB
+    ↓
+Next.js
+    ↓
+Full-Stack Development 🚀
