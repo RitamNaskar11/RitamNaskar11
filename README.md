@@ -26,40 +26,94 @@
 
 ## 💻 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-## 🛠️ Tools
+###  Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+###  Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+</p>
+
+###  Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- ⚛️ React.js
-- 🎨 Responsive design and modern CSS (Flexbox and Grid)
-- 🧩 Building real-world frontend projects
+- AI & Generative AI
+- MongoDB
+- New Technologies
+- Building AI based projects
 
 > Edit this list to match what you're actually learning right now.
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-<!-- Replace the placeholders below with your real projects -->
+###  Foodie.com
 
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Project One](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
-| [Project Two](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
-| [Project Three](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | Python |
+A food booking and ordering web application built as an academic project.
+
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL
+
+🔗 [View Project](https://github.com/RitamNaskar11)
+
+---
+
+###  Emergency Assistance System
+
+A web application designed to help users find nearby hospitals using location-based services.
+
+**Tech:** React • Node.js • Express • OpenStreetMap • Leaflet
+
+**Features:**
+- Location detection
+- Nearby hospital search
+- Interactive map
+- Distance calculation
+
+---
+
+###  AI Resume Analyzer
+
+A Python-based application that analyzes resumes and extracts useful information.
+
+**Tech:** Python • Pandas • PyPDF2 • Flask
+
+---
+
+###  Voice AI Assistant
+
+A Python-based voice assistant that can understand voice commands, respond using speech, open applications, search the web, play music, and perform different tasks through voice interaction.
+
+**Features:**
+- Speech recognition
+- Text-to-speech responses
+- AI-powered responses
+- Web searching
+- Music playback
+- Application control
+- Natural voice interaction
+- Fast command processing
+
+**Tech:** Python • Speech Recognition • Text-to-Speech • AI • APIs
+
+🔗 [View Project](https://github.com/RitamNaskar11)
 
 ---
 
