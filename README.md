@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=560&lines=BCA+Graduate+%7C+Class+of+2025;Aspiring+Frontend+Web+Developer;Building+clean%2C+responsive+websites" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 🙋‍♂️ About Me
 
