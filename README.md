@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=560&lines=BCA+Graduate+%7C+Class+of+2025;Aspiring+Frontend+Web+Developer;Building+clean%2C+responsive+websites" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritam-naskar-2024r">
-   <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RitamNaskar11&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
