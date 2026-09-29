@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritam-naskar-2024r">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=RitamNaskar11&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
 </p>
@@ -125,10 +125,8 @@ A Python-based voice assistant that can understand voice commands, respond using
 
 ---
 
-## 📫 Let's Connect
-
-I'm always happy to chat about web development, collaborations, or opportunities.
-Reach out on [LinkedIn](https://www.linkedin.com/in/ritam-naskar-2024r).
+## 🤝 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/ritam-naskar-2024/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/RitamNaskar11" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 <p align="center">
   <i>Thanks for stopping by. Happy coding! ✨</i>
