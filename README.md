@@ -1,26 +1,30 @@
-# 👋 Hi, I'm Ritam Naskar
+<h1 align="center">👋 Hi, I'm Ritam Naskar</h1>
 
-### 💻 Frontend Web Developer | BCA Graduate | Full-Stack Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=560&lines=BCA+Graduate+%7C+Class+of+2025;Aspiring+Frontend+Web+Developer;Building+clean%2C+responsive+websites" alt="Typing SVG" />
+</p>
 
-I'm a **Bachelor of Computer Applications (BCA) graduate** passionate about building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into real-world projects and continuously improving my skills in **Frontend Development, JavaScript, React, Python, and Full-Stack Development**.
-
----
-
-## 🚀 About Me
-
-- 🎓 BCA Graduate — Class of 2025
-- 💻 Passionate about **Frontend & Full-Stack Web Development**
-- 🌱 Currently improving my skills in **React, Next.js, Node.js & Python**
-- 🔥 Interested in building real-world web applications
-- 🤝 Open to collaborating on **Web Development & Open Source Projects**
-- 🎯 Goal: Become a professional **Frontend / Full-Stack Developer**
-- ⚡ Fun fact: When I'm not coding, I enjoy listening to music, watching web series, and playing mobile games.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritam-naskar-2024r">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RitamNaskar11&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🙋‍♂️ About Me
+
+- 🎓 Bachelor of Computer Applications (BCA) graduate, **Class of 2025**
+- 👀 Passionate about **frontend web development**
+- 🚀 Aspiring to become a **Frontend Web Developer**
+- 🤝 Open to collaborating on **frontend** and **open-source web projects**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: *When I'm not coding, I'm probably listening to music, watching web series, or playing mobile games.*
+
+---
+
+## 💻 Tech Stack
 
 ### 💻 Languages
 
@@ -28,127 +32,50 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php" />
 </p>
 
-### ⚛️ Frontend Development
+## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### 🔧 Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🌱 Currently Learning
 
-### 🍔 Foodie.com
+- ⚛️ React.js
+- 🎨 Responsive design and modern CSS (Flexbox and Grid)
+- 🧩 Building real-world frontend projects
 
-A food booking and ordering web application built as an academic project.
-
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
-
-🔗 [View Project](https://github.com/RitamNaskar11)
+> Edit this list to match what you're actually learning right now.
 
 ---
 
-### 🎵 Spotify Clone
+## 📂 Featured Projects
 
-A responsive Spotify-inspired music player built using JavaScript with local music playback functionality.
+<!-- Replace the placeholders below with your real projects -->
 
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://ritamnaskar11.github.io/Spotify.github.io/)
-
----
-
-### 🎬 Netflix Clone
-
-A Netflix-inspired responsive website created to practice frontend development and responsive UI design.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/RitamNaskar11)
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [Project One](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
+| [Project Two](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | HTML, CSS, JavaScript |
+| [Project Three](https://github.com/RitamNaskar11/your-repo-name) | A short one-line description of what it does | Python |
 
 ---
 
-### 🏠 StayFinder
+## 🎯 Goals
 
-A full-stack accommodation platform inspired by applications such as Airbnb.
-
-**Features:**
-- User authentication
-- Property listings
-- Booking functionality
-- REST APIs
-- Responsive UI
-
-**Tech:** JavaScript • Node.js • Express • MongoDB
+- ✅ Build and publish a strong frontend portfolio
+- ✅ Contribute to open-source projects
+- ✅ Land a role as a Frontend Web Developer
 
 ---
 
-### 🚨 Emergency Assistance System
+## 📫 Let's Connect
 
-A web application designed to help users find nearby hospitals using location-based services.
-
-**Tech:** React • Node.js • Express • OpenStreetMap • Leaflet
-
-**Features:**
-- 📍 Location detection
-- 🏥 Nearby hospital search
-- 🗺️ Interactive map
-- 📏 Distance calculation
-
----
-
-### 🤖 AI Resume Analyzer
-
-A Python-based application that analyzes resumes and extracts useful information.
-
-**Tech:** Python • Pandas • PyPDF2 • Flask
-
----
-
-## 📊 GitHub Stats
+I'm always happy to chat about web development, collaborations, or opportunities.
+Reach out on [LinkedIn](https://www.linkedin.com/in/ritam-naskar-2024r).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitamNaskar11&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamNaskar11&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <i>Thanks for stopping by. Happy coding! ✨</i>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RitamNaskar11&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 My Development Journey
-
-```text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-PHP + MySQL
-    ↓
-React
-    ↓
-Node.js + Express
-    ↓
-MongoDB
-    ↓
-Next.js
-    ↓
-Full-Stack Development 🚀
