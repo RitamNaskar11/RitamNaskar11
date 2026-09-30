@@ -64,7 +64,7 @@ A food booking and ordering web application built as an academic project.
 
 **Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
-🔗 [View Project](https://github.com/RitamNaskar11)
+🔗 [View Project](https://ritamnaskar11.github.io/FoodieWebsite.github.io/)
 
 ---
 
